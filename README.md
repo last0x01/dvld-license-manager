@@ -36,5 +36,5 @@
   ### -  Access: ADO.NET 
 
   ### - Database: SQL Server 
-   - ## 🧩 Download it here: [⬇️ Click here to download the sample database](Database/P_DVLD)
+   - ## 🧩 Download it here: [⬇️ Click here to download the sample database](Database/P_DVLD?raw=true)
 
